@@ -1,4 +1,4 @@
-#Tipos de Dados
+# Tipos de Dados
 
 Conforme o ECMAScript satandard temos 9 tipos de dados:
 
